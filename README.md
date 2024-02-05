@@ -1,6 +1,7 @@
 # My-First-Project
 
-This Free to use HTML & CSS Basic Website Structure
+This is Basic Website Structure with HTML & CSS Code
+this website structure is not responsive for all device 
 
 #[01-Project](https://gaurav-yeole.github.io/01-Project/)
 
